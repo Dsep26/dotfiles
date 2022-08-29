@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = sepersadk@gmail.com
+	name = Danveer Kumar Sepersad
